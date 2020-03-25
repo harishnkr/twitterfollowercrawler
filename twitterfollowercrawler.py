@@ -1,5 +1,5 @@
 import requests
-from bs4 import BeautifulSoup as bs
+from bs4 import BeautifulSoup
 
 x = '<input the required account name wherever case sensitive>'
 URL = 'https://twitter.com/'+x
